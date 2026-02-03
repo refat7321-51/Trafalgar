@@ -21,7 +21,7 @@ body {
 
 
 .container {
-    max-width: 1000px;
+    max-width: 1250px;
     padding-right: 20px;
     margin: 0 auto;
     padding: 0 20px;
@@ -962,3 +962,4 @@ footer {
         height: 400px;
     }
 }
+
