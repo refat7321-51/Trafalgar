@@ -18,11 +18,13 @@ body {
     cursor: pointer;
 }
 
+
+
 .container {
-    max-width: 800px;
+    max-width: 1000px;
+    padding-right: 20px;
     margin: 0 auto;
     padding: 0 20px;
-    
 }
 
 header {
@@ -959,11 +961,4 @@ footer {
         width: 400px;
         height: 400px;
     }
-
 }
-
-
-
-
-
-
